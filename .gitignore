@@ -11,4 +11,3 @@ static
 !.gitignore
 !.travis.yml
 /.env
-/.vscode
